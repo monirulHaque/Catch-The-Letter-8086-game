@@ -6,6 +6,9 @@
 ;	▷ Shafiul Muslebeen
 ;	© 2019 CATCH THE LETTER
 ;!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+;Compiler: TASM
+;Emulator: DOSBox 0.74-3
+;Press 1/2/3/4 on the menu
 
 .model  small
 ;.stack 100H
